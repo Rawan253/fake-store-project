@@ -1,0 +1,46 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+    height: auto;
+    width: 150px;
+}
+
+.card--img{
+    height: 150px;
+    width:130px;
+    border-radius: 10px;
+}
+
+h4{
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+
+nav{
+    background-color: rgb(200, 233, 233);
+}
+
+.logo{
+    height: 50px;
+    width: 80px;
+
+}
+
+#men-container, #women-container{
+    display: flex;
+    margin-left: 40px;
+}
+
+.product{
+    display: flex;
+}
+
+.product--img{
+    width: 500px;
+    height: 500px;
+}
